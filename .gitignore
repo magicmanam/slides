@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/automation-testing/samples/bin/Debug/netcoreapp2.1
+/automation-testing/.vs/samples/v15
+/automation-testing/samples/obj
+/.vs
+/automation-testing/.vs/config/applicationhost.config
